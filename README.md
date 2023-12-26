@@ -29,6 +29,4 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/manthandonga11)
 - **Portfolio:** [Your Portfolio Website]([https://www.yourportfolio.com](https://manthandonga.github.io/))
 
-## License
 
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
