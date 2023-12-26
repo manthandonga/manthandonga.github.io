@@ -11,7 +11,7 @@ I am passionate about Flutter Developer. My background includes 2 Year.
 - **Email:** info.manthandonga@gmail.com
 
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/manthandonga11)
-- **Portfolio:** [Your Portfolio Website]([(https://manthandonga.github.io)](https://manthandonga.github.io/))
+- **Portfolio:** [Your Portfolio Website](https://manthandonga.github.io/)
 
 ## Skills
 
