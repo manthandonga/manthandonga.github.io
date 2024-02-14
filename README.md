@@ -10,8 +10,8 @@ I am passionate about Flutter Developer. My background includes 2 Year.
 - **Location:** Surat, Gujarat, Ind
 - **Email:** info.manthandonga@gmail.com
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/manthandonga11)
-- **Portfolio:** [Your Portfolio Website](https://manthandonga.github.io/)
+- **LinkedIn:** [MY LinkedIn Profile](https://www.linkedin.com/in/manthandonga11)
+- **Portfolio:** [MY Portfolio Website](https://manthandonga.github.io/)
 
 ## Skills
 
